@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Jaykishan Mutkawoa](mailto:jaykishan.mutkawoa@owasp.org)
+* [Logananaden Velvindron](mailto:loganaden.velvindron@owasp.org)
