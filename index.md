@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Rose Hill
+title: OWASP Mauritius
 tags: example-tag
 region: Africa
 country: Mauritius
