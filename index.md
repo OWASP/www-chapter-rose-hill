@@ -12,7 +12,8 @@ meetup-group:
 <div style='color:red;'>
 
 OWASP Chapter
-Cyberstorm.mu members are initial members.
+
+Cyberstorm.mu members have participated in several hackathons on improving web app security.
 
 
 
