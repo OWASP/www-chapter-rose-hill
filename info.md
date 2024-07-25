@@ -1,5 +1,5 @@
 ### Rose Hill Information
-* Provide Group Information
+* We are based in Ebene.
 
 ### Social Links
 * [Meetup](#)
