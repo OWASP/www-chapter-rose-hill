@@ -1,0 +1,23 @@
+leaders:
+  - name: Jaykishan Mutkawoa
+    email: jaykishan.mutkawoa@owasp.org
+  - name: Loganaden Velvindron
+    email: loganaden.velvindron@owasp.org
+    github: loganaden
+location:
+  country: Mauritius
+  country_code: MU
+  region: Port Louis District
+  city: Port Louis
+  latitude: -20.2759451
+  longitude: 57.5703566
+name: OWASP Mauritius
+repositories:
+  - name: www-chapter-rose-hill
+    url: https://github.com/OWASP/www-chapter-rose-hill
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-rose-hill
